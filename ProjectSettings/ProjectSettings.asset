@@ -852,11 +852,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 
+  cloudProjectId: d93d69e7-a505-40f4-9b31-7b537de55d60
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: 3D_01_24-Unity_Workshop
+  organizationId: estherkreijkes04
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
